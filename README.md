@@ -3,7 +3,7 @@ Send text to girlfriend/boyfriend (or really anyone with a phone number) in the 
 
 ## 1. Configure your settings in `utils.py`.
 ```py
-phone_number = "+9760142489"
+phone_number = "+0000000000"
 # enter the target phone number inside quotation marks. use the format "+15555555555"
 message = ["Good Morning ", "Good morning ", "Good morning  😊"]
 # just make sure the message is inside quotation marks. An example is "Did you sleep well?"
